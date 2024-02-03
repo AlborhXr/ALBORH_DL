@@ -1,6 +1,5 @@
 #𝑨𝑳𝑩𝑶𝑹𝑯 𝑾 𝑺𝑻 ࿈
 from builtins import exec, input, len, print, dict, int, range, str, open, exit
-from rich.panel import Panel as nel
 import requests
 import bs4
 import json
